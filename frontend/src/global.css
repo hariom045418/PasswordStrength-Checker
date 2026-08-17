@@ -1,0 +1,16 @@
+/* Remove default spacing */
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+/* Prevent side scroll */
+html, body {
+  overflow-x: hidden;
+}
+
+/* Better layout */
+* {
+  box-sizing: border-box;
+}
